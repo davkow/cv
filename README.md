@@ -2,7 +2,7 @@
 
 _Technical writer in Seattle, WA with 10+ years of experience_ <br>
 
-[Email](mailto:davkow@gmail.com) / [LinkedIn](https://www.linkedin.com/in/davidkowalsky/) / [Twitter](https://twitter.com/davkow/)  / [GitHub](https://github.com/davkow/) / 
+[Email](mailto:davkow@gmail.com) / [LinkedIn](https://www.linkedin.com/in/davidkowalsky/) / [Twitter](https://twitter.com/davkow/)  
 
 
 ## Tools and technologies
@@ -22,7 +22,9 @@ _DITA_:
 - easyDITA (a component content management system [CCMS] with XML editor)
 - Topic based authoring
 
+## Programming
 
+- Python (beginner level proficiency)
 
 ## Technical Experience
 
@@ -42,12 +44,12 @@ Technical Writer/Software Test Engineer @ [NEC Corporation of America](https://w
 
 ## Education and courses 
 
+**Master of Arts** in East Asian Studies - Washington University (St. Louis, MO)
+
+**Bachelor of Arts** in Business Admininstration - University of Washington (Seattle, WA)
+
 Learn API Technical Writing: JSON and XML for Writers<br>
 Learn API Technical Writer 2: REST for Writers<br>
 The Art of API Documentation<br>
 Coding for Writers: Basic Programming<br>
 **Udemy.com** 
-
-**Master of Arts** in East Asian Studies - Washington University (St. Louis, MO)
-
-**Bachelor of Arts** in Business Admininstration - University of Washington (Seattle, WA)
