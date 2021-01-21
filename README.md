@@ -7,7 +7,7 @@ _Technical writer in Seattle, WA with 10+ years of experience_ <br>
 
 ## Tools and technologies
 
-_Docs-like-code:_
+_Docs-as-code:_
 
 - GitLab/GitHub
 - Visual Studio Code
