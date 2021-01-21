@@ -5,14 +5,14 @@ _Technical writer in Seattle, WA with 10+ years of experience_ <br>
 [Email](mailto:davkow@gmail.com) / [LinkedIn](https://www.linkedin.com/in/davidkowalsky/) / [Twitter](https://twitter.com/davkow/)  
 
 
-## Tools and technologies
+## Tools - technologies - programming
 
 _Docs-as-code:_
 
 - GitLab/GitHub
 - Visual Studio Code
 - Markdown -- reStructuredText (RST)
-- Agile software development environment: Scaled Agile Framework (SAFe)
+- Agile software development environment using the Scaled Agile Framework (SAFe)
 - Jira, Confluence, Bugzilla, and Perforce
 - Python (beginner level proficiency)
 
@@ -22,7 +22,7 @@ _DITA_:
 - easyDITA (a component content management system [CCMS] with XML editor)
 - Topic based authoring
 
-## Programming
+_Programming languages:_
 
 - Python (beginner level proficiency)
 
