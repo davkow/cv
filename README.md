@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# David Kowalsky
 
-You can use the [editor on GitHub](https://github.com/davkow/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Technical writer in Seattle, WA with 10+ years of experience_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:davkow@gmail.com) / [LinkedIn](https://www.linkedin.com/in/davidkowalsky/) / [Twitter](https://twitter.com/davkow/)  / [GitHub](https://github.com/davkow/) / 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tools and technologies
 
-```markdown
-Syntax highlighted code block
+_Docs-like-code:_
 
-# Header 1
-## Header 2
-### Header 3
+- GitLab/GitHub
+- Visual Studio Code
+- Markdown -- reStructuredText (RST)
+- Agile software development environment: Scaled Agile Framework (SAFe)
+- Jira, Confluence, Bugzilla, and Perforce
+- Python (beginner level proficiency)
 
-- Bulleted
-- List
+_DITA_:
 
-1. Numbered
-2. List
+- Oxygen XML Editor
+- easyDITA (a component content management system [CCMS] with XML editor)
+- Topic based authoring
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Technical Experience
 
-### Jekyll Themes
+Senior Technical Writer/Staff Technical Writer @ [F5 Networks](https://www.f5.com/) _(Dec 2013  - Present)_ <br>
+- Write, edit, and maintain developer/DevOps content for internal/external sites.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davkow/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Technical Writer/Software Test Engineer @ [NEC Corporation of America](https://www.necam.com/) _(Jan 2006  - Mar 2013/Jun 1997  - Dec 2005)_ <br>
+- Wrote documentation for NEC storage, servers, and management software products.
+- Tested pre-release English and Japanese versions of major Windows OSes on NEC servers.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Certifications
+
+**Certificate, Technical Writing and Editing** Univeristy of Washington, Professional & Continuing Education
+
+**Certified SAFe 5 Practitioner** Scaled Agile Framework (SAFe) <br>
+
+## Education and courses 
+
+Learn API Technical Writing: JSON and XML for Writers<br>
+Learn API Technical Writer 2: REST for Writers<br>
+The Art of API Documentation<br>
+Coding for Writers: Basic Programming<br>
+**Udemy.com** 
+
+**Master of Arts** in East Asian Studies - Washington University (St. Louis, MO)
+
+**Bachelor of Arts** in Business Admininstration - University of Washington (Seattle, WA)
