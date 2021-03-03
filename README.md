@@ -28,11 +28,11 @@ _Programming languages:_
 
 ## Technical Experience
 
-Senior Technical Writer/Staff Technical Writer @ [F5 Networks](https://www.f5.com/) _(Dec 2013  - Present)_ <br>
+Senior Technical Writer/Staff Technical Writer @ [F5 Networks](https://www.f5.com/) _(Oct 2015 - Present/Dec 2013 - Sept 2015)_ <br>
 - Write, edit, and maintain developer/DevOps content for internal/external sites.
 
 
-Technical Writer/Software Test Engineer @ [NEC Corporation of America](https://www.necam.com/) _(Jan 2006  - Mar 2013/Jun 1997  - Dec 2005)_ <br>
+Technical Writer/Software Test Engineer @ [NEC Corporation of America](https://www.necam.com/) _(Jan 2006 - Mar 2013/Jun 1997 - Dec 2005)_ <br>
 - Wrote documentation for NEC storage, servers, and management software products.
 - Tested pre-release English and Japanese versions of major Windows OSes on NEC servers.
 
