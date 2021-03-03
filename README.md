@@ -14,7 +14,7 @@ _Docs-as-code:_
 - Markdown -- reStructuredText (RST)
 - Agile software development environment using the Scaled Agile Framework (SAFe)
 - Jira, Confluence, Bugzilla, and Perforce
-- Python (beginner level proficiency)
+
 
 _DITA_:
 
@@ -50,6 +50,7 @@ Technical Writer/Software Test Engineer @ [NEC Corporation of America](https://w
 
 Learn API Technical Writing: JSON and XML for Writers<br>
 Learn API Technical Writer 2: REST for Writers<br>
-The Art of API Documentation<br>
-Coding for Writers: Basic Programming<br>
-**Udemy.com** 
+[**Udemy**](https://www.udemy.com/) 
+
+Documenting APIs: A guide for technical writers<br>
+[**I'd rather be writing**](https://idratherbewriting.com/learnapidoc/)
