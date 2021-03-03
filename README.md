@@ -52,5 +52,5 @@ Learn API Technical Writing: JSON and XML for Writers<br>
 Learn API Technical Writer 2: REST for Writers<br>
 [**Udemy**](https://www.udemy.com/) 
 
-Documenting APIs: A guide for technical writers<br>
-[**I'd rather be writing**](https://idratherbewriting.com/learnapidoc/)
+API documentation course. Documenting APIs: A guide for technical writers and engineers<br>
+[**I'd Rather Be Writing**](https://idratherbewriting.com/learnapidoc/)
